@@ -2,9 +2,10 @@
 # -*- mode: sh; tabstop: 4; shiftwidth: 4; softtabstop: 4; -*-
 
 #set -x
-. ${0%/*}/lud_set.env || exit 1
+LUDPATH="/usr/share/openudc-lud"
+. "$LUDPATH"/lud_set.env || exit 1
 lud_init || exit 2
-. lud_utils.env || exit 3
+. "$LUDPATH"/lud_utils.env || exit 3
 
 helpmsg='
 Usage: '"${lud_call}"' [options]
@@ -42,7 +43,7 @@ while true ; do
 		read -t 3
 		;;
 	  3)
-		. lud_generator.env
+		. "$LUDPATH"/lud_generator.env
 		lud_generator_udid
 		read -t 3
 		;;
@@ -58,7 +59,7 @@ while true ; do
 				break
 				;;
 			[nN]*)
-				. lud_generator.env
+				. "$LUDPATH"/lud_generator.env
 				itsudid="$(lud_generator_udid | sed -n 1p )"
 				echo -e "$itsudid\n"
 				break

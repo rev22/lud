@@ -1,0 +1,17 @@
+Source: openudc-lud
+Section: misc
+Priority: optional
+Maintainer: Michele Bini <michele.bini@gmail.com>
+Build-Depends-Indep: debhelper (>> 3.0.0)
+Standards-Version: 3.5.9
+
+Package: openudc-lud
+Architecture: all
+Depends: bash, gnupg|gnupg2, wget|curl
+Recommends: gnupg2
+Suggests: seahorse
+Description: OpenUDC user tools
+ Tools for OpenUDC projects.
+ .
+ OpenUDC is a currency standard based on the Universal Dividend and
+ Consensus.

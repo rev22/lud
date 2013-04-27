@@ -1,0 +1,59 @@
+openudc-lud (0.1.0-mb14) unstable; urgency=low
+
+  * Integrated debian patch to lud subproject, from https://github.com/rev22/open-udc/tree/debian
+
+ -- Michele Bini <michele.bini@gmail.com>  Sat, 27 Apr 2013 16:51:09 +0200
+
+openudc-lud (0.1.0-mb13) unstable; urgency=low
+
+  * Upstream updates.
+
+ -- Michele Bini <michele.bini@gmail.com>  Wed, 29 Aug 2012 15:04:17 +0200
+
+openudc-lud (0.1.0-mb12) unstable; urgency=low
+
+  * Add dependency to Bash
+
+ -- Michele Bini <michele.bini@gmail.com>  Fri, 03 Aug 2012 16:33:03 +0200
+
+openudc-lud (0.1.0-mb11) unstable; urgency=low
+
+  * Introduce LUDPATH variable to source sh files
+
+ -- Michele Bini <michele.bini@gmail.com>  Thu, 02 Aug 2012 22:28:42 +0200
+
+openudc-lud (0.1.0-mb6) unstable; urgency=low
+
+  * Add 'wget|curl' depedency
+
+ -- Michele Bini <michele.bini@gmail.com>  Thu, 02 Aug 2012 19:32:30 +0200
+
+openudc-lud (0.1.0-mb5) unstable; urgency=low
+
+  * src/lud_genudid: select script in /usr/share/openudc-lud/
+
+ -- Michele Bini <michele.bini@gmail.com>  Thu, 02 Aug 2012 08:19:15 +0200
+
+openudc-lud (0.1.0-mb4) unstable; urgency=low
+
+  * src/lud: select script in /usr/share/openudc-lud/
+
+ -- Michele Bini <michele.bini@gmail.com>  Thu, 02 Aug 2012 08:14:07 +0200
+
+openudc-lud (0.1.0-mb3) unstable; urgency=low
+
+  * debian/copyright: Link to local copy of GPL-2 text.
+
+ -- Michele Bini <michele.bini@gmail.com>  Thu, 02 Aug 2012 08:00:24 +0200
+
+openudc-lud (0.1.0-mb2) unstable; urgency=low
+
+  * Removed language extensions from lud and lud_genuid
+
+ -- Michele Bini <michele.bini@gmail.com>  Thu, 02 Aug 2012 07:22:14 +0200
+
+openudc-lud (0.1.0-mb1) unstable; urgency=low
+
+  * Debianized
+
+ -- Michele Bini <michele.bini@gmail.com>  Thu, 02 Aug 2012 06:46:06 +0200
