@@ -1,3 +1,9 @@
+openudc-lud (0.2.3-mb17) unstable; urgency=low
+
+  * Fix install location for .env files.
+
+ -- Michele Bini <michele.bini@gmail.com>  Sun, 28 Apr 2013 20:01:56 +0200
+
 openudc-lud (0.2.3-mb16) unstable; urgency=low
 
   * Advance to correct upstream version.
