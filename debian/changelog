@@ -1,3 +1,9 @@
+openudc-lud (0.1.0-mb15) unstable; urgency=low
+
+  * Makefile: Package building fix.
+
+ -- Michele Bini <michele.bini@gmail.com>  Sun, 28 Apr 2013 18:51:29 +0200
+
 openudc-lud (0.1.0-mb14) unstable; urgency=low
 
   * Integrated debian patch to lud subproject, from https://github.com/rev22/open-udc/tree/debian

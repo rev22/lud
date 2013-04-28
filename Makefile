@@ -2,7 +2,7 @@
 #
 
 DESTDIR =
-PREFIX =        /usr/local
+PREFIX =        /usr
 
 all:
 	# Nothing to compile, run directly "make install" (as root)
