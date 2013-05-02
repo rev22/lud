@@ -7,8 +7,7 @@ Standards-Version: 3.5.9
 
 Package: openudc-lud
 Architecture: all
-Depends: bash, gnupg|gnupg2, wget|curl
-Recommends: gnupg2
+Depends: bash, gnupg2, curl
 Suggests: seahorse
 Description: OpenUDC user tools
  Tools for OpenUDC projects.

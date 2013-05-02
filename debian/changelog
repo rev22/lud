@@ -1,3 +1,9 @@
+openudc-lud (0.2.3-mb18) unstable; urgency=low
+
+  * Add dependencies to gnupg2 and curl.
+
+ -- Michele Bini <michele.bini@gmail.com>  Thu, 02 May 2013 18:13:37 +0200
+
 openudc-lud (0.2.3-mb17) unstable; urgency=low
 
   * Fix install location for .env files.
