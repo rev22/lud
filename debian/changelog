@@ -1,3 +1,10 @@
+openudc-lud (0.2.3.deb3) lucid; urgency=low
+
+  * Made debian/rules executable.
+  * Set Launchpad compilation for 'lucid'.
+
+ -- Michele Bini <michele.bini@gmail.com>  Tue, 14 May 2013 23:16:16 +0200
+
 openudc-lud (0.2.3.deb2) unstable; urgency=low
 
   * Include README.md in distribution.
