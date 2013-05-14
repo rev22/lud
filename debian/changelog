@@ -1,3 +1,10 @@
+openudc-lud (0.2.3-mb19) unstable; urgency=low
+
+  * Improved description.
+  * Depend on Bash version >= 3.0
+
+ -- Michele Bini <michele.bini@gmail.com>  Tue, 14 May 2013 20:50:25 +0200
+
 openudc-lud (0.2.3-mb18) unstable; urgency=low
 
   * Add dependencies to gnupg2 and curl.
