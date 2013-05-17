@@ -12,7 +12,7 @@ w_man_desc(Experimental OpenUDC client)
 
 ! DESCRIPTION
 
-**lud** is an experimental implementation of an OpenUDC client.
+''lud'' is an experimental implementation of an OpenUDC client.
 
 It can be currently used to:
 

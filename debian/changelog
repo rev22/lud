@@ -1,3 +1,16 @@
+openudc-lud (0.2.3.deb7) saucy; urgency=low
+
+  * Fix manpage text emphasys.
+  * debian/rules: remove unused code.
+
+ -- Michele Bini <michele.bini@gmail.com>  Fri, 17 May 2013 19:23:43 +0200
+
+openudc-lud (0.2.3.deb6) saucy; urgency=low
+
+  * Fix installation of manpages.
+
+ -- Michele Bini <michele.bini@gmail.com>  Fri, 17 May 2013 19:17:39 +0200
+
 openudc-lud (0.2.3.deb5) saucy; urgency=low
 
   * Improve documentation, and add manpages.
