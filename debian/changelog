@@ -1,3 +1,12 @@
+openudc-lud (0.2.3.deb4) saucy; urgency=low
+
+  * Compile for 'Saucy Salamander'
+  * Removed copyright notice for a file that is not present.
+  * Created README.Debian from README.md.
+  * Added application menu entry.
+
+ -- Michele Bini <michele.bini@gmail.com>  Fri, 17 May 2013 18:18:10 +0200
+
 openudc-lud (0.2.3.deb3) lucid; urgency=low
 
   * Made debian/rules executable.
