@@ -1,0 +1,2 @@
+?package(openudc-lud):needs="text" section="Applications/Office"\
+  title="'lud', OpenUDC client" command="/usr/bin/lud"
