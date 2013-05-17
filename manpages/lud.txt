@@ -1,0 +1,40 @@
+dnl This is structured text -*- stx -*-
+dnl Process this file with 'stx2any -T man' to generate a manpage
+w_title(lud)dnl
+w_doc_id(ludman)dnl
+w_section(1)dnl
+w_author(Michele Bini)dnl
+w_man_desc(Experimental OpenUDC client)
+
+! SYNOPSIS
+
+''lud''
+
+! DESCRIPTION
+
+**lud** is an experimental implementation of an OpenUDC client.
+
+It can be currently used to:
+
+* create your identity for the OpenUDC web of trust (udid2)
+* registering that identity for participating to the monetary
+  community.
+
+Before running ''lud'' you should have created your GnuPG (''gpg'')
+key pair.
+
+The program functions interactively and presents a menu to the user.
+
+An Internet connection is required, for most of the functionality.
+   
+! OPTIONS
+
+No options are currently documented.
+
+! SEE ALSO
+
+''gpg2'' (1), ''seahorse'' (1)
+
+! AUTHOR
+
+This page was written by w_author.

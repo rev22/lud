@@ -1,3 +1,9 @@
+openudc-lud (0.2.3.deb5) saucy; urgency=low
+
+  * Improve documentation, and add manpages.
+
+ -- Michele Bini <michele.bini@gmail.com>  Fri, 17 May 2013 19:13:40 +0200
+
 openudc-lud (0.2.3.deb4) saucy; urgency=low
 
   * Compile for 'Saucy Salamander'

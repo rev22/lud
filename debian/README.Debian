@@ -3,7 +3,13 @@
 To run it, launch:
    $ lud
 
-An Internet connection is required.
+It can be currently used to:
+
+ * create your identity for the OpenUDC web of trust (udid2)
+ * registering that identity for participating to the monetary
+   community.
+
+An Internet connection is required, for most of the functionality.
    
 -----
 
@@ -40,4 +46,4 @@ with this program; if not, write to the Free Software Foundation, Inc.,
 
 ----
 
- -- Michele Bini <michele.bini@gmail.com>, Fri, 17 May 2013 18:04:11 +0200
+ -- Michele Bini <michele.bini@gmail.com>, Fri, 17 May 2013 19:05:29 +0200

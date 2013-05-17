@@ -9,9 +9,9 @@ Package: openudc-lud
 Architecture: all
 Depends: bash (>= 3.0), gnupg2, curl
 Suggests: seahorse
-Description: OpenUDC user tools
+Description: OpenUDC lud, experimental OpenUDC client
  OpenUDC is a currency standard based on the Universal Dividend and
  Consensus.  Read more at: http://openudc.org
  .
- This package contains the lud tool, currently used for registering to
- the monetary community.
+ This package contains the OpenUDC 'lud' tool, currently used for
+ registering to the monetary community.
